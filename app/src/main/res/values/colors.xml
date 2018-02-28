@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fc8d71</color>
+    <color name="colorPrimaryDark">#d76e54</color>
+    <color name="colorAccent">#f55e43</color>
+    <color name="transToolBarColor">#00ffffff</color>
+
+
+    <color name="darkest">#2c0a2d</color>
+    <color name="darker">#760228</color>
+    <color name="dark">#bd1642</color>
+    <color name="light">#fc8d71</color>
+    <color name="lighter">#f7b79e</color>
+    <color name="lightest">#f4cdbe</color>'
+    <color name="white">#ffffff</color>
+    <color name="black">#a7000000</color>
+
+
+
+
+</resources>

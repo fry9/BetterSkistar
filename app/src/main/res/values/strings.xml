@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">betterSkistar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="skistar_id">Your Skistar-ID</string>
+    <string name="view_statistics">View statistics</string>
+
+    <string name="day">Day</string>
+    <string name="week">Week</string>
+    <string name="season">Season</string>
+    <string name="all_time">All time</string>
+
+    <string name="drop_height">Drop height: %s</string>
+    <string name="lift_rides">Lift rides: %s</string>
+    <string name="meters">m</string>
+
+    <string-array name="page_titles">
+        <item>Day</item>
+        <item>Week</item>
+        <item>Season</item>
+        <item>All time</item>
+    </string-array>
+
+    <string name="settings">Settings</string>
+    <string name="seasonid">Season Id:</string>
+    <string name="skierid">Skistar Id</string>
+
+
+
+</resources>
